@@ -40,9 +40,6 @@ YouTube URL
 
 [Invite Link](http://bit.ly/djblob-bot) | [Support Server](https://discord.gg/RWSEj6JrjJ)
 
-<a href="https://top.gg/bot/786209866946838528">
-    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
-</a>
 
 <a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
