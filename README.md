@@ -1,10 +1,10 @@
 # DJ Blob 
-ℙ𝕝𝕒𝕪𝕚𝕟𝕘 𝕄𝕦𝕤𝕚𝕔:-
+## Playing Music:
 
 DJ Blob can play from YouTube, or you can provide a direct YouTube link.
 
 
-ℙ𝕝𝕒𝕪 𝕥𝕪𝕡𝕖𝕤:-
+### Play Types:-
 
 YouTube Search
 
@@ -13,7 +13,7 @@ YouTube URL
 𝘋𝘑 𝘉𝘭𝘰𝘣 𝘸𝘪𝘭𝘭 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘤𝘢𝘭𝘭𝘺 𝘥𝘦𝘵𝘦𝘤𝘵 𝘵𝘩𝘦 𝘵𝘺𝘱𝘦 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘶𝘴𝘦
 
 
-ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤:-
+#### Commands:-
 
 >▶️ ?play or ?p: Plays music, you can use a file URL, YouTube URL, or song name/search query.
 
