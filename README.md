@@ -15,26 +15,26 @@ YouTube URL
 
 ## Commands:-
 
->▶️ ?play or ?p: Plays music, you can use a file URL, YouTube URL, or song name/search query.
+>▶️ ?play or ?p : Plays music, you can use a file URL, YouTube URL, or song name/search query.
 
->⏸ ?pause: Pauses music.
+>⏸ ?pause or ?ps : Pauses music.
 
->⏯ ?resume: Resumes paused music.
+>⏯ ?resume or ?rs : Resumes paused music.
 
->⏹ ?stop: Stops music and leaves the voice channel.
+>⏹ ?stop or ?disconnect or ?leave : Stops music and leaves the voice channel.
 
->⏩ ?skip : To skip the currently playing music to next queued up music. 
+>⏩ ?skip or ?next : To skip the currently playing music to next queued up music. 
 
->🔁 ?loop : To repeat the queued up music again and again, to disable it type the 
+>🔁 ?loop or ?repeat: To repeat the queued up music again and again, to disable it type the 
             command once more
 
->🔊 ?volume : To change the volume between 0-100.
+>🔊 ?volume or ?vol or ?v : To change the volume between 0-100.
 
->🔍 ?search : To 1st 10 results from YT so that you can select them.
+>🔍 ?search or ?sc : To 1st 10 results from YT so that you can select them.
 
->🎶 ?queue : To see what all music are in queue.
+>🎶 ?queue or ?q : To see what all music are in queue.
 
->💿 ?nowplaying : To check which song is playing now.
+>💿 ?nowplaying or ?np : To check which song is playing now.
 
 
 [Invite Me](http://bit.ly/djblob-bot) | [Join our discord server](https://discord.gg/RWSEj6JrjJ) | [Vote for me](https://top.gg/bot/786209866946838528/vote)
