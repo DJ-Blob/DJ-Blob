@@ -38,7 +38,7 @@ YouTube URL
 
 𝙉𝙤𝙩𝙚 :- 𝙄𝙛 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙜𝙚𝙩 𝙨𝙩𝙪𝙘𝙠 𝙥𝙡𝙚𝙖𝙨𝙚 𝙙𝙞𝙨𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙢𝙖𝙣𝙪𝙖𝙡𝙡𝙮 !
 
-[Invite Link](http://bit.ly/djblob-bot) | [Support Server](https://discord.gg/RWSEj6JrjJ)
+[Invite Link](http://bit.ly/djblob-bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
 
 
 <a href="https://top.gg/bot/786209866946838528">
