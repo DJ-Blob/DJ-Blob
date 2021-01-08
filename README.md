@@ -4,7 +4,7 @@
 DJ Blob can play from YouTube, or you can provide a direct YouTube link.
 
 
-### Play Types:-
+## Play Types:-
 
 YouTube Search
 
@@ -13,7 +13,7 @@ YouTube URL
 𝘋𝘑 𝘉𝘭𝘰𝘣 𝘸𝘪𝘭𝘭 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘤𝘢𝘭𝘭𝘺 𝘥𝘦𝘵𝘦𝘤𝘵 𝘵𝘩𝘦 𝘵𝘺𝘱𝘦 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘶𝘴𝘦
 
 
-#### Commands:-
+## Commands:-
 
 >▶️ ?play or ?p: Plays music, you can use a file URL, YouTube URL, or song name/search query.
 
@@ -36,11 +36,14 @@ YouTube URL
 
 >💿 ?nowplaying : To check which song is playing now.
 
-𝙉𝙤𝙩𝙚 :- 𝙄𝙛 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙜𝙚𝙩 𝙨𝙩𝙪𝙘𝙠 𝙥𝙡𝙚𝙖𝙨𝙚 𝙙𝙞𝙨𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙢𝙖𝙣𝙪𝙖𝙡𝙡𝙮 !
 
-[Invite Link](http://bit.ly/djblob-bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
+[Invite Me](http://bit.ly/djblob-bot) | [Join our discord server](https://discord.gg/RWSEj6JrjJ) | [Vote for me](https://top.gg/bot/786209866946838528/vote)
 
 
 <a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
 </a>
+
+## Social Media 
+
+[Instagram](https://www.instagram.com/dj_blob/) | [Twitter](https://twitter.com/dj_blob)
