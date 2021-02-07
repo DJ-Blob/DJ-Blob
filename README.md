@@ -15,8 +15,10 @@ YouTube URL
 ## Commands
 
 ### 🎶 Music
-Filters, Applyfilter, Bassboost, Clean, Clearqueue, Join, Leave, Loop, Lyrics, Nightcore, 
-Nowplaying, Pause, Play, Queue, Resume, Search, Shuffle, Skip, Songinfo, Stop, Volume
+Filters, Clean, Clearqueue, Join, Leave, Loop, Lyrics, Nowplaying, Pause, Play, Queue, Resume, Search, Shuffle, Skip, Songinfo, Stop, Volume
+
+### 🎼 Filters
+Nightcore, Bassboost, Vaporwave, Normalizer, Treble, Flanger
 
 ### 😃 Others
 Help, Invite, Ping, Vote, Uptime, Botinfo
