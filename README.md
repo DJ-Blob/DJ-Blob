@@ -12,16 +12,16 @@ YouTube URL
 ## Commands
 
 ### 🎶 Music
-Filters, Clean, Clearqueue, Join, Leave, Loop, Lyrics, Nowplaying, Pause, Play, Queue, Resume, Search, Shuffle, Skip, Songinfo, Stop, Volume
+`Filters`, `Clean`, `Clearqueue`, `Join`, `Leave`, `Loop`, `Lyrics`, `Nowplaying`, `Pause`, `Play`, `Queue`, `Resume`, `Search`, `Shuffle`, `Skip`, `Songinfo`, `Stop`, `Volume`
 
 ### 🎼 Filters
-Nightcore, Bassboost, Vaporwave, Normalizer, Treble, Flanger
+`Nightcore`, `Bassboost`, `Vaporwave`, `Normalizer`, `Treble`, `Flanger`
 
 ### 😃 Others
-Help, Invite, Ping, Vote, Uptime, Botinfo, Policy
+`Help`, `Invite`, `Ping`, `Vote`, `Uptime`, `Botinfo`, `Policy`
 
 ### 📞 Contact
-Feeback, Report, Suggest
+`Feeback`, `Report`, `Suggest`
 
 ### 🔗 Useful Links
 [Invite Me](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
