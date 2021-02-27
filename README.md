@@ -1,5 +1,5 @@
 # DJ Blob
-A cool, simple and free music bot in which you listen music with your friends in discord prefix is ?
+A cool, simple and free music bot in which you listen music with your friends in discord prefix is `?`
 
 ## Playing Music:-
 DJ Blob can play from YouTube, or you can provide a direct YouTube link and also high quality sounds and filters too.
