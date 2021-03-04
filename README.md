@@ -12,6 +12,7 @@ YouTube URL
 ## Commands
 
 ### 🎶 Music
+
 Name | Description | Usage | Aliase
 |---|---|---|---|
 | Play | Play the music if you provide title / link | `play <title / yt link>` | p
@@ -30,7 +31,19 @@ Name | Description | Usage | Aliase
 | Clean | Bot leaves the voice channel and rejoins again and plays the same song from the starting | `clean` | cc
 | Volume | Changes the volume accoring to your wish | `volume <number between 0 to 150>` | vol, v
 | Stop | Clears the queue and stops the music | `stop` | eng
+| Filters | To check what all filters are applied on the queue | `filters` | ft
 
+### 🎼 Filters
+
+Name | Description | Usage | Aliase
+|----|----|----|----|
+| Nightcore | Converts the queue from normal to nightcore filter | `nightcore` | nc
+| Bassboost | Converts the queue from normal to bassbosst filter | `bassboost` | bb
+| Flanger | Converts the queue from normal to flanger filter | `flanger` | -
+| Normalizer | Converts the queue from normal to normalizer filter | `normalizer` | -
+| Phaser | Converts the queue from normal to phaser filter | `phaser` | -
+| Treble | Converts the queue from normal to treble filter | `treble` | -
+| Vaporwave | Converts the queue from normal to vaporwave filter | `vaporwave` | -
 
 ### 🔗 Useful Links
 [Invite Me](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
