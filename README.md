@@ -13,7 +13,7 @@ YouTube URL
 
 ### 🎶 Music
 Name | Description | Usage | Aliase
-|---|---|---|
+|---|---|---|---|
 | Play | Play the music if you provide title / link | `play <title / yt link>` | p
 | Pause | Pauses the music for you | `pause` | wait, ps
 | Search | Gives you the search results of the provided text and select from it | `search <song name>` | -
