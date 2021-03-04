@@ -11,7 +11,7 @@ YouTube URL
 
 ## Commands
 
-### 🎶 Music
+### 🎶 Music:
 
 Name | Description | Usage | Aliase
 |---|---|---|---|
@@ -33,7 +33,7 @@ Name | Description | Usage | Aliase
 | Stop | Clears the queue and stops the music | `stop` | eng
 | Filters | To check what all filters are applied on the queue | `filters` | ft
 
-### 🎼 Filters
+### 🎼 Filters:
 
 Name | Description | Usage | Aliase
 |----|----|----|----|
@@ -44,6 +44,19 @@ Name | Description | Usage | Aliase
 | Phaser | Converts the queue from normal to phaser filter | `phaser` | -
 | Treble | Converts the queue from normal to treble filter | `treble` | -
 | Vaporwave | Converts the queue from normal to vaporwave filter | `vaporwave` | -
+
+## 😃 Others:
+
+Name | Description | Usage | Aliase
+|----|----|----|----|
+| Help | Gives you all the list of commands in the bot if you want a detailed explaination on a commande then type that command name | `help or help <command name>` | h, cmd, commands, assist
+| Botinfo | Give the information of the bot | `botinfo` | info, stats, bot
+| Invite | To get the invite link of the bot | `invite` | invitelink
+| Ping | To see the latency and the api latency of the bot | `ping` | ms
+| Support | To get our support server link if you want join us | `support` | server
+| Uptime | To see how long the bot is been online | `uptime` | ut
+| Policy | To see our privacy policy | `policy` | privacypolicy
+| Vote | To get the link to vote for us pls do it | `vote` | vote me
 
 ### 🔗 Useful Links
 [Invite Me](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
