@@ -58,6 +58,14 @@ Name | Description | Usage | Aliase
 | Policy | To see our privacy policy | `policy` | privacypolicy
 | Vote | To get the link to vote for us pls do it | `vote` | vote me
 
+## 📞Contact:
+
+Name | Description | Usage | Aliase
+|----|----|----|----|
+| Report | To report and bug or anything else to us we will be checking | `report <you report>` | -
+| Feedback | To give us some feedback we will be checking it | `feedback <your feedback>` | -
+| Suggest | To give us a suggestion we will be reviewing it | `suggest <your suggestion>` | suggestion
+
 ### 🔗 Useful Links
 [Invite Me](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
 
