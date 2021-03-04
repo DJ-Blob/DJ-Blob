@@ -12,20 +12,24 @@ YouTube URL
 ## Commands
 
 ### 🎶 Music
-Name | Description | Usage |
+Name | Description | Usage | Aliase
 |---|---|---|
-| Play | Play the music if you provide title / link | Play <title / yt link>
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
+| Play | Play the music if you provide title / link | `play <title / yt link>` | p
+| Pause | Pauses the music for you | `pause` | wait, ps
+| Search | Gives you the search results of the provided text and select from it | `search <song name>` | -
+| Resume | Resumes the music for you | `resume` | rs, back
+| Queue | Shows the queued up songs | `queue` | q
+| Nowplaying | Shows the details the current playing music | `nowplaying` | np
+| Leave | Leaves the voice channel | `leave` | disconnect
+| Lyics | Finds the lyrics of the provided song name or yt link or currently playing music | `lyrics <song name / yt link>` | ly
+| Loop | To make the bot repeatedly playing the queue again and again | `loop` | lp, repeat
+| Join | Just joins the vc | `join` | come
+| Clearqueue | Clear the currently playing quque | `clearqueue` | cq
+| Shuffle | Shuffle the queue for you | `shuffle` | sf, shufflequeue
+| Songinfo | Give the information of the song with the provided yt link or song name | `songinfo <yt link / title>` | si, songinformation
+| Clean | Bot leaves the voice channel and rejoins again and plays the same song from the starting | `clean` | cc
+| Volume | Changes the volume accoring to your wish | `volume <number between 0 to 150>` | vol, v
+| Stop | Clears the queue and stops the music | `stop` | eng
 
 
 ### 🔗 Useful Links
